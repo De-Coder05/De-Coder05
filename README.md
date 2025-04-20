@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devansh Wadhwani</h1>
-<h3 align="center">Aspiring Computer Science Engineer | Currently learning Machine Learning and Data Science</h3>
+<h3 align="center">Aspiring Software Engineer | Currently learning Machine Learning and Full Stack Web Development</h3>
 
-- 🌱 I’m currently learning **Frontend Development and Machine Learning**
+- 🌱 I’m currently learning **Backend Development and Machine Learning**
 
 - 📫 How to reach me **devanshworkmail5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E_JM35v67jI8wj7zx4Defz0dwaxruoco/view?usp=share_link](https://drive.google.com/file/d/1E_JM35v67jI8wj7zx4Defz0dwaxruoco/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1F-yb_eXQsI8RGJA5yQVnqd-E3zjd2rFW/view?usp=sharing](https://drive.google.com/file/d/1F-yb_eXQsI8RGJA5yQVnqd-E3zjd2rFW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
