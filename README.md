@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/devanshwadhwani" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
   </a>
-  <a href="https://github.com/your-github-handle" target="_blank">
+  <a href="https://github.com/De-Coder05" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="30"/>
   </a>
 </p>
