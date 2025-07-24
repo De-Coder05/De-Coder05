@@ -108,6 +108,6 @@
 
 - **Email:** [devanshworkmail5@gmail.com](mailto:devanshworkmail5@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/devanshwadhwani](https://linkedin.com/in/devanshwadhwani)  
-- **GitHub:** [github.com/your-github-handle](https://github.com/De-Coder05)
+- **GitHub:** [github.com/De-Coder05](https://github.com/De-Coder05)
 
 ---
